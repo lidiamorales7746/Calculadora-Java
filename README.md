@@ -1,2 +1,5 @@
-# Calculadora-Java
-Este es un proyecto de programación 2
+public class Calculadora {
+    public static void main(String[] args) {
+        System.out.println("Hola, esta es la calculadora.");
+    }
+}
